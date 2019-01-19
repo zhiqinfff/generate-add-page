@@ -1,0 +1,16 @@
+{
+  "name": "generate-add-page",
+  "version": "1.0.0",
+  "description": "add wechat page",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "add",
+    "wechat",
+    "page"
+  ],
+  "author": "zhaoge",
+  "license": "ISC"
+}
